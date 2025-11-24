@@ -1,4 +1,4 @@
-# SPARQL Query Executor
+# SPARQL Connectivity Test
 
 A simple JavaScript class for executing SPARQL queries using the [sparql-http-client](https://github.com/rdf-ext/sparql-http-client) library.
 
